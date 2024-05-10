@@ -7,5 +7,5 @@ To convinient for your usage of this dataset, I share this script for you to dow
 ## Usage
 You could apply the below commondline for dataset download directly. The only thing you need to do is to set your huggingface access token through the --hug_access_token parameter.
 ```
-python download_the_stack_v2.py --hug_access_token {your_huggingface_access_token} --download_folder ./data
+python download_the_stack_v2.py --hug_access_token {your_huggingface_access_token}
 ```
